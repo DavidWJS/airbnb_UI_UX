@@ -22,7 +22,7 @@ const DestinationSearchScreen = (props) => {
                     textInput: styles.textInput
                 }}
                 query={{
-                    key: 'AIzaSyCtuYKnjSMN3cj_OQk_4BwH3kiBz_fm29I',
+                    key: 'API KEY',
                     language: 'en',
                     type: '(cities)'
                 }}
